@@ -17,10 +17,10 @@ git add .
 git commit -m "feat: initial release of aliasmail-mcp server"
 
 # 2. Create public GitHub repository and push
-gh repo create anshu4sharma/aliasmail-mcp --public --source=. --remote=origin --push
+gh repo create aliasmail-space/aliasmail-mcp --public --source=. --remote=origin --push
 
-# (Or if using aliasmailonline org):
-# gh repo create aliasmailonline/aliasmail-mcp --public --source=. --remote=origin --push
+# (Or if pushing to your personal account):
+# gh repo create anshu4sharma/aliasmail-mcp --public --source=. --remote=origin --push
 ```
 
 ### (Optional) Publish to npm for 1-Click `npx aliasmail-mcp`

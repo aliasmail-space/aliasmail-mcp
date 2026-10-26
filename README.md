@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://www.npmjs.com/package/aliasmail-mcp"><img src="https://img.shields.io/npm/v/aliasmail-mcp.svg?style=flat-square&color=indigo" alt="npm version" /></a>
-  <a href="https://github.com/anshu4sharma/aliasmail-mcp/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="MIT License" /></a>
+  <a href="https://github.com/aliasmail-space/aliasmail-mcp/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="MIT License" /></a>
   <a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP-Certified-emerald.svg?style=flat-square" alt="Model Context Protocol" /></a>
   <a href="https://aliasmail.space/"><img src="https://img.shields.io/badge/Privacy-Zero--Log-purple.svg?style=flat-square" alt="Zero Log" /></a>
   <a href="https://aliasmail.space/temporary/"><img src="https://img.shields.io/badge/Web_Inbox-aliasmail.space-blue?style=flat-square" alt="Web Inbox" /></a>
@@ -183,4 +183,4 @@ AliasMail is engineered with a strict privacy-first foundation:
 
 ## 📄 License
 
-MIT © [Anshu Sharma](https://github.com/anshu4sharma) & [AliasMail.space](https://aliasmail.space)
+MIT © [AliasMail](https://aliasmail.space) & [Anshu Sharma](https://github.com/anshu4sharma)
