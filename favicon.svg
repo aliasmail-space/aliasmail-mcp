@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" fill="none">
+  <defs>
+    <linearGradient id="am_fav_grad" x1="2" y1="2" x2="38" y2="38" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4F46E5" />
+      <stop offset="100%" stop-color="#7C3AED" />
+    </linearGradient>
+    <linearGradient id="am_fav_shine" x1="0" y1="0" x2="0" y2="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <rect width="40" height="40" rx="10" fill="url(#am_fav_grad)" />
+  <rect width="40" height="40" rx="10" fill="url(#am_fav_shine)" />
+  <rect x="0.5" y="0.5" width="39" height="39" rx="9.5" stroke="rgba(255,255,255,0.25)" stroke-width="1" />
+  
+  <!-- Geometric 'A' Relay Monogram -->
+  <path
+    d="M20 9L9.5 29H14.8L16.8 24.5H23.2L25.2 29H30.5L20 9Z"
+    fill="#FFFFFF"
+  />
+  <polygon points="20,14 17.5,21 22.5,21" fill="#4F46E5" />
+  <circle cx="20" cy="21.5" r="2.2" fill="#38BDF8" />
+  <circle cx="20" cy="21.5" r="0.9" fill="#FFFFFF" />
+</svg>

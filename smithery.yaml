@@ -1,0 +1,13 @@
+startCommand:
+  type: stdio
+  configSchema:
+    type: object
+    properties:
+      backendUrl:
+        type: string
+        description: "Optional custom AliasMail backend API URL (defaults to https://backend.aliasmail.space)"
+  commandFunction:
+    npm:
+      package: "aliasmail-mcp"
+      command: "npx"
+      args: ["-y", "aliasmail-mcp"]

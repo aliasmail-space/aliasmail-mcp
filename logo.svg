@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" fill="none">
+  <defs>
+    <linearGradient id="am_logo_svg_grad" x1="0" y1="0" x2="40" y2="40" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4F46E5" />
+      <stop offset="100%" stop-color="#7C3AED" />
+    </linearGradient>
+    <linearGradient id="am_logo_svg_shine" x1="0" y1="0" x2="0" y2="20" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <rect width="40" height="40" rx="10" fill="url(#am_logo_svg_grad)" />
+  <rect width="40" height="40" rx="10" fill="url(#am_logo_svg_shine)" />
+  <rect x="0.5" y="0.5" width="39" height="39" rx="9.5" stroke="rgba(255,255,255,0.2)" stroke-width="1" />
+  
+  <path
+    d="M11 14.5C11 14.5 15.5 13 20 13C24.5 13 29 14.5 29 14.5V21.5C29 25.8 24.5 28.5 20 30C15.5 28.5 11 25.8 11 21.5V14.5Z"
+    fill="rgba(255,255,255,0.12)"
+    stroke="#FFFFFF"
+    stroke-width="2"
+    stroke-linejoin="round"
+  />
+  <path
+    d="M12.5 15.5L20 21.5L27.5 15.5"
+    stroke="#FFFFFF"
+    stroke-width="2.2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <circle cx="20" cy="18.5" r="1.75" fill="#38BDF8" />
+</svg>
